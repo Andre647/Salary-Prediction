@@ -5,7 +5,6 @@ import pandas as pd
 import scipy.stats as stats
 import seaborn as sns
 import matplotlib.pyplot as plt
-import sweetviz as sv
 import streamlit as st
 import streamlit.components.v1 as components
 
